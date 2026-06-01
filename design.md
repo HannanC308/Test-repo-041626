@@ -1,10 +1,13 @@
-Test Calculator Project
-Design Documentation & Layout Description
+# Simple Science Experiment Tracker
 
-The test calculator project consists of a simple layout featuring:
-- A digital display screen at the top to show inputs and results.
-- A grid of buttons for digits 0-9.
-- Basic arithmetic operator buttons (+, -, *, /).
-- An clear button (C) and an equals button (=).
+## Project Overview
+A web-based tracker designed for 5th-grade students to log their science experiments, track variables, and note conclusions.
 
-The application logic will handle standard arithmetic precedence and basic error checking for division by zero.
+## Features
+- Log experiment name and date
+- Input independent and dependent variables
+- Record observations and daily notes
+- Summary dashboard showing completed experiments
+
+## Target Audience
+5th-grade students and science teachers
